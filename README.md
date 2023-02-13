@@ -21,5 +21,5 @@ Dont sell This Repository its totally 100% free.
 
 <p>✅All Credits : https://github.com/krreet</p>
 
-<p>Join Telegram https://t.me/maxmentor
-Also Join     https://t.me/spidyworld
+<p>Join Telegram https://t.me/maxmentor</p>
+<p>Also Join     https://t.me/spidyworld<p>
