@@ -2,7 +2,7 @@
 Use Jiotv In Kodi . Free Live Tv Streamin Repo .
 
 #Setup :-
-#Install KODI
+*Install KODI
 #Go to > Settings > System > Add-ons > Allow (unknown source)
 #Go to > Add-Ons > Download > PVR Client > Install (Iptv simple client)
 #Install this repo . 
