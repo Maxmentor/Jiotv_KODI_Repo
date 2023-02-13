@@ -2,20 +2,20 @@
 Use Jiotv In Kodi . Free Live Tv Streamin Repo .
 
 #Setup :-
-<em>✅Install KODI</em>
-✅Go to > Settings > System > Add-ons > Allow (unknown source)
-✅Go to > Add-Ons > Download > PVR Client > Install (Iptv simple client)
-✅Install this repo . 
+<p><em>✅Install KODI</em></p>
+<p><em>✅Go to > Settings > System > Add-ons > Allow (unknown source)</em></p>
+<p><em>✅Go to > Add-Ons > Download > PVR Client > Install (Iptv simple client)</em></p>
+<p><em>✅Install this repo . </em></p>
 
-✅After Install This JioTv Repository You must restart your Kodi Application .
+<p><em>✅After Install This JioTv Repository You must restart your Kodi Application .</em></p>
 
-✅Then Go To My Addons 
-✅Go To Jiotv 
-✅Login By OTP Or Password .
-✅You Have successfully Logged in.
+<p><em>✅Then Go To My Addons </em></p>
+<p><em>✅Go To Jiotv </em></p>
+<p><em>✅Login By OTP Or Password .</em></p>
+<p><em>✅You Have successfully Logged in.</em></p>
 
-✅Watch Your favourite Live Tv Channles.
-✅Enjoy.
+<p><em>✅Watch Your favourite Live Tv Channles.</em></p>
+<p><em>✅Enjoy.</em></p>
 
 Dont sell This Repository its totally 100% free.
 
